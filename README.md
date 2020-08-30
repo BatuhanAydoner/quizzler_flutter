@@ -5,8 +5,8 @@
 ## My Goal
 In this app I will be reviewing Stateful and Stateless Widgets as well as learning about the fundamental building blocks of Object Oriented Programming (OOP) - Classes and Objects.
 
-## What I Will Create
-I am going to make a quiz app that tests your general knowledge. As one of the most popular types of apps on the app stores, you can create your own quiz for other people to enjoy!
+## What I Created
+I created to make a quiz app that tests your general knowledge. As one of the most popular types of apps on the app stores, you can create your own quiz for other people to enjoy!
 
 ## What I Learned
 * Modularising your code into separate classes.
